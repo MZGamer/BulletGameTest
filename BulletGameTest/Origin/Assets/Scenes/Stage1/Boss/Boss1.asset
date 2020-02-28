@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f0d80e71c16da1458323a40167abbd3, type: 3}
+  m_Name: Boss1
+  m_EditorClassIdentifier: 
+  Boss:
+    HP: 10000
+    BGM: {fileID: 8300000, guid: f86e7f12a84766144bb48d49dcf592f6, type: 3}
+    Bullet:
+    - StartTime: 0
+      BossBulletOb: {fileID: 1309541845791184, guid: f923b4a3ed311fa41a80ce2e90b8bb8c,
+        type: 2}
+    - StartTime: 21.5
+      BossBulletOb: {fileID: 1807467156460204, guid: dfd63b53b9c13504c8044899c2b9be99,
+        type: 2}
+    - StartTime: 31
+      BossBulletOb: {fileID: 1807467156460204, guid: c7ef8e1a28fef3c46a00cbff3ba61adb,
+        type: 2}
+    - StartTime: 40.5
+      BossBulletOb: {fileID: 1480160805768452, guid: 092849fcefb82cc4287f912c21cdff32,
+        type: 2}
+    - StartTime: 50.3
+      BossBulletOb: {fileID: 1480160805768452, guid: 8899042488d79d24194b528e6519fa55,
+        type: 2}
+    - StartTime: 60
+      BossBulletOb: {fileID: 1851628311970172, guid: d2f7ecd6ba486764e8e40a8f83df4ee2,
+        type: 2}
+    - StartTime: 69.5
+      BossBulletOb: {fileID: 1718896300732742, guid: c4e892b02821acd4d80327503e07bed2,
+        type: 2}
+    - StartTime: 74.3
+      BossBulletOb: {fileID: 1718896300732742, guid: 517f55de56e84074ea5ae1a3e94bdca7,
+        type: 2}
+    - StartTime: 79
+      BossBulletOb: {fileID: 1745560298548584, guid: c6e894d02a417924aad59e85f8b32b9b,
+        type: 2}
+    - StartTime: 97.3
+      BossBulletOb: {fileID: 1456432765840872, guid: 29c2e107943c21f4fa2f2c50a5d4cb5c,
+        type: 2}
+    - StartTime: 117.5
+      BossBulletOb: {fileID: 1603649205234144, guid: 2640c41e26021c04baf794d7978a6089,
+        type: 2}
+    - StartTime: 127.38
+      BossBulletOb: {fileID: 1722059209981756, guid: b2a603616573b004ca18d385b5e8e3d4,
+        type: 2}
+    Body: {fileID: 0}

@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261900fb6f41e7c459396b67baab1229, type: 3}
+  m_Name: Stage1
+  m_EditorClassIdentifier: 
+  Stage:
+    time: 184
+    BGM: {fileID: 8300000, guid: 6ac6990a25827df428e8a4996dd772b7, type: 3}
+    EnymeList:
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 0.1
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 1
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 2
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 3
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 4
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 5
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 6
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 7
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 8
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 9
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 10
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 11
+    - Enyme: {fileID: 1698567445984516, guid: 52ae33eca1c9b6f4e84ef305e3d242e5, type: 2}
+      time: 13
+    - Enyme: {fileID: 1130573394570442, guid: f637c41691a8e294797ecc96d942f0ca, type: 2}
+      time: 15
+    - Enyme: {fileID: 1730858443909504, guid: fa91b3e0a8ea6d847b01ecfe7b6272b6, type: 2}
+      time: 15
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 23.8
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 24.8
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 25.8
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 26.8
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 27.8
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 28.8
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 29.8
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 30.8
+    - Enyme: {fileID: 1130573394570442, guid: d1fc6d937d29dc2469e39f802a1250d1, type: 2}
+      time: 32.8
+    - Enyme: {fileID: 1730858443909504, guid: 02a9eba0a795116449e4d82bf00747b1, type: 2}
+      time: 32.8
+    - Enyme: {fileID: 1010622713852926, guid: 2baa31638d11f50429e4c286e9517d8f, type: 2}
+      time: 35.8
+    - Enyme: {fileID: 1010622713852926, guid: 2baa31638d11f50429e4c286e9517d8f, type: 2}
+      time: 37.3
+    - Enyme: {fileID: 1010622713852926, guid: 2baa31638d11f50429e4c286e9517d8f, type: 2}
+      time: 38.8
+    - Enyme: {fileID: 1010622713852926, guid: 2baa31638d11f50429e4c286e9517d8f, type: 2}
+      time: 40.3
+    - Enyme: {fileID: 1010622713852926, guid: 2baa31638d11f50429e4c286e9517d8f, type: 2}
+      time: 41.8
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 43.8
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 45.3
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 46.8
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 48.3
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 49.8
+    - Enyme: {fileID: 1698567445984516, guid: 52ae33eca1c9b6f4e84ef305e3d242e5, type: 2}
+      time: 52
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 54
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 56
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 58
+    - Enyme: {fileID: 1130573394570442, guid: f637c41691a8e294797ecc96d942f0ca, type: 2}
+      time: 60
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 62
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 64
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 66
+    - Enyme: {fileID: 1730858443909504, guid: 02a9eba0a795116449e4d82bf00747b1, type: 2}
+      time: 68
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 70
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 72
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 74
+    - Enyme: {fileID: 1698567445984516, guid: 1918036251ee11a4ba069f684309c8b5, type: 2}
+      time: 76
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 78
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 80
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 82
+    - Enyme: {fileID: 1130573394570442, guid: d1fc6d937d29dc2469e39f802a1250d1, type: 2}
+      time: 84
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 86
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 87.5
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 89
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 90.5
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 92
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 93.5
+    - Enyme: {fileID: 1730858443909504, guid: 02a9eba0a795116449e4d82bf00747b1, type: 2}
+      time: 95
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 97
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 98.5
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 100
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 101.5
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 103
+    - Enyme: {fileID: 1698567445984516, guid: 1918036251ee11a4ba069f684309c8b5, type: 2}
+      time: 105
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 107
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 109
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 111
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 113
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 115
+    - Enyme: {fileID: 1698567445984516, guid: 1918036251ee11a4ba069f684309c8b5, type: 2}
+      time: 117
+    - Enyme: {fileID: 1698567445984516, guid: 52ae33eca1c9b6f4e84ef305e3d242e5, type: 2}
+      time: 123.5
+    - Enyme: {fileID: 1130573394570442, guid: f637c41691a8e294797ecc96d942f0ca, type: 2}
+      time: 125.5
+    - Enyme: {fileID: 1730858443909504, guid: fa91b3e0a8ea6d847b01ecfe7b6272b6, type: 2}
+      time: 125.5
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 128.5
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 130.5
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 132.5
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 134.5
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 136.5
+    - Enyme: {fileID: 1074148063320378, guid: 8afbf1ab539e9d94d82e1ca821fa684d, type: 2}
+      time: 138.5
+    - Enyme: {fileID: 1130573394570442, guid: d1fc6d937d29dc2469e39f802a1250d1, type: 2}
+      time: 140
+    - Enyme: {fileID: 1730858443909504, guid: 02a9eba0a795116449e4d82bf00747b1, type: 2}
+      time: 140
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 142
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 144
+    - Enyme: {fileID: 1402123963567874, guid: 6a48ab9ca0b49104ba0154a11457a10f, type: 2}
+      time: 146
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 148
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 150
+    - Enyme: {fileID: 1566850256934878, guid: 03b76bc40e7160747a5f5f3b5eba6f2b, type: 2}
+      time: 152
+    - Enyme: {fileID: 1698567445984516, guid: 52ae33eca1c9b6f4e84ef305e3d242e5, type: 2}
+      time: 155
+    - Enyme: {fileID: 1730858443909504, guid: 02a9eba0a795116449e4d82bf00747b1, type: 2}
+      time: 155
+    - Enyme: {fileID: 1010622713852926, guid: 2baa31638d11f50429e4c286e9517d8f, type: 2}
+      time: 155
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 157
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 159
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 161
+    - Enyme: {fileID: 1263942469200510, guid: 9d9273978096b8b4b803973561d5ac12, type: 2}
+      time: 163
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 165
+    - Enyme: {fileID: 1698567445984516, guid: 1918036251ee11a4ba069f684309c8b5, type: 2}
+      time: 167
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 169
+    - Enyme: {fileID: 1698567445984516, guid: 1918036251ee11a4ba069f684309c8b5, type: 2}
+      time: 171
+    - Enyme: {fileID: 1889962506350626, guid: 218f09d0802d69e4bbec306218826181, type: 2}
+      time: 173
+    - Enyme: {fileID: 1698567445984516, guid: 1918036251ee11a4ba069f684309c8b5, type: 2}
+      time: 175
+    Boss: {fileID: 11400000, guid: 85f1bd47815a4c24880502a40874d58c, type: 2}
